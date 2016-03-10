@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>YoPollsSDK.xcscheme</key>
+		<key>ExampleApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>045E210C1C6473E700C6A6E8</key>
+		<key>045E21211C64752E00C6A6E8</key>
 		<dict>
 			<key>primary</key>
 			<true/>

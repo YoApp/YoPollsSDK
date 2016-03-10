@@ -1,13 +1,15 @@
 //
-//  YoPollsSDK.h
-//  YoPollsSDK
+//  ViewController.h
+//  ExampleApp
 //
 //  Created by mac on 2/4/16.
 //  Copyright © 2016 Life Before Us, Inc. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
-@interface YoPollsSDK : NSObject
+@interface ViewController : UIViewController
+
 
 @end
+
